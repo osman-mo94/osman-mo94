@@ -1,4 +1,4 @@
-### Hi there 👋🏾
+### Hello! 👋🏾
 
 I’m a current Health Data Science MSc student studying at London School of Hygeine and Tropical Medicine (Graduating in September 2023)
 
